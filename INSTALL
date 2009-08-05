@@ -1,0 +1,10 @@
+REQUIREMENTS
+- Python CE (http://sourceforge.net/projects/pythonce/files/pythonce-smartphone/Python-2.5-20071004/PythonCESetup.exe/download)
+- ppygui (http://sourceforge.net/projects/ppygui/files/ppygui/ppygui-beta/ppygui-0.7.zip/download)
+
+INSTALL
+    * Download and install Python CE
+    * Download ppygui and unzip, run install.py
+    * Download opentumblr and unzip to copy the program files directory
+    * Run Program Files/opentumblr/opentumblr-client.py
+
